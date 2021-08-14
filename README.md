@@ -1,36 +1,38 @@
 # kodluyoruz ilk Repo
 
-Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet
-README dosyası, bir adet de index.html barındırıyor.
+Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End eÄŸitiminde oluÅŸturduÄŸumuz ilk repo. Ä°Ã§erisinde bir adet
+README dosyasÄ±, bir adet de index.html barÄ±ndÄ±rÄ±yor.
 
 
 # Installation
 
-Öncelikle projeyi clonelayın. [Projemi clonelamak için tıklayın.](https://github.com/SalihaGokceSahin/kodluyoruzRepo.git)
+Ã–ncelikle projeyi clonelayÄ±n. [Projemi clonelamak iÃ§in tÄ±klayÄ±n.](https://github.com/SalihaGokceSahin/kodluyoruzRepo.git)
 
 `git clone https://github.com/SalihaGokceSahin/kodluyoruzRepo.git`
 
 
 # Usage
 
-Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
+Projeyi cloneladÄ±ktan sonra Visual Studio Code programÄ±nda aÃ§Ä±nÄ±z.
 
-Linux için:
+Linux iÃ§in:
 
 ```
 cd kodluyoruzilkrepo
-code .
+code . 
 ```
 
 
 # Contributing
 
-Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek
-istediğinizi tartışmak için bir konu açınız.
+Pull requestler kabul edilir. BÃ¼yÃ¼k deÄŸiÅŸiklikler iÃ§in, lÃ¼tfen Ã¶nce neyi deÄŸiÅŸtirmek
+istediÄŸinizi tartÄ±ÅŸmak iÃ§in bir konu aÃ§Ä±nÄ±z.
 
 # License
 
 [MIT](https://www.mit.edu/)
+
+![Kodluyoruz Logo](https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg)
 
 
 
